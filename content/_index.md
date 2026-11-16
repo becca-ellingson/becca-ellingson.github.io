@@ -1,1 +1,5 @@
+---
+title: "Home"
+---
+
 {{< list limit=20 where="Section" value="projects" cardView=true >}}
