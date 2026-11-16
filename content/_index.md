@@ -1,1 +1,1 @@
-yo wassup its ya boi
+{{< list limit=20 where="Section" value="projects" cardView=true >}}
