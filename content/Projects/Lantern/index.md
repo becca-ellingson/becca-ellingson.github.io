@@ -17,6 +17,8 @@ Working on the guards
   {{< feature title="Enemy Behavior" url="#enemy-behavior-and-movement" label="Jump to section" >}}
   How enemies move and respond to the player.
   {{< /feature >}}
+
+{{< /feature-grid >}}
 ---
 ## Enemy Behavior and Movement
 
