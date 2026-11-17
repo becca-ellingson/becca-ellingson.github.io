@@ -1,7 +1,7 @@
 ---
 title: "Solar Simulator"
 summary: "Solar system"
-weight: 1
+weight: 2
 showHero: true
 heroStyle: "big"
 ---

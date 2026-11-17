@@ -1,7 +1,7 @@
 ---
 title: "Fungi Fallout"
 summary: "Physics puzzle game"
-weight: 1
+weight: 3
 showHero: true
 heroStyle: "big"
 ---
