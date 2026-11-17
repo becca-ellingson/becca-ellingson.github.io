@@ -11,9 +11,11 @@ section.w-full.grid.gap-4 {
 
 /* Keep project tables side by side, but hide their borders */
 .article-content table,
+.article-content thead,
+.article-content tbody,
+.article-content tr,
 .article-content th,
 .article-content td {
-  border: none !important;
+  border: 0 !important;
   box-shadow: none !important;
-  background: transparent !important;
 }
