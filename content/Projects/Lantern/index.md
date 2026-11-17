@@ -16,6 +16,7 @@ Working on the guards
 {{< feature-grid columns="3" >}}
   {{< feature title="Enemy Behavior" url="#enemy-behavior-and-movement" label="Enemy Behavior" >}}{{< /feature >}}
   {{< feature title="Designing the Horror Experience" url="#designing-the-horror-experience" label="Designing the Horror Experience" >}}{{< /feature >}}
+  {{< feature title="Early Prototyping and Development" url="#early-prototyping-and-development" label="Early Prototyping and Development" >}}{{< /feature >}}
 {{< /feature-grid >}}
 ---
 ## Enemy Behavior and Movement
