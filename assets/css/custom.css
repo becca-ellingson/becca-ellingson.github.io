@@ -1,10 +1,10 @@
 /* One centered card per row, up to 52rem wide */
 section.w-full.grid.gap-4 {
-  grid-template-columns: minmax(0, 52rem) !important;
+  grid-template-columns: minmax(20, 52rem) !important;
   justify-content: center;
 }
 
 /* Make the image area wide and short */
 .article-link--card .thumbnail_card {
-  aspect-ratio: 16 / 9 !important;
+  aspect-ratio: 3 / 4 !important;
 }
