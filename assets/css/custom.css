@@ -1,0 +1,4 @@
+/* Show one full-width project card per row */
+section.w-full.grid.gap-4 {
+  grid-template-columns: minmax(0, 1fr) !important;
+}
