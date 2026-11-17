@@ -14,10 +14,8 @@ Working on the guards
 
 
 {{< feature-grid columns="3" >}}
-  {{< feature title="Enemy Behavior" url="#enemy-behavior-and-movement" label="Jump to section" >}}
-  How enemies move and respond to the player.
-  {{< /feature >}}
-
+  {{< feature title="Enemy Behavior" url="#enemy-behavior-and-movement" label="Enemy Behavior" >}}{{< /feature >}}
+  {{< feature title="Level Design" url="#level-design" label="Level Design" >}}{{< /feature >}}
 {{< /feature-grid >}}
 ---
 ## Enemy Behavior and Movement

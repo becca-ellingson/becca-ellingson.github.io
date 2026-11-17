@@ -19,3 +19,31 @@ section.w-full.grid.gap-4 {
   border: 0 !important;
   box-shadow: none !important;
 }
+
+
+/* Make feature tiles compact, title-only, and clickable across the whole box */
+.article-content .grid-balance > article {
+  padding: 0.75rem 1rem;
+}
+
+.article-content .grid-balance > article > span,
+.article-content .grid-balance > article > div,
+.article-content .grid-balance > article > a svg {
+  display: none;
+}
+
+.article-content .grid-balance > article > h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.article-content .grid-balance > article > a {
+  margin: 0;
+  font-size: 0;
+}
+
+.article-content .grid-balance > article > a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
