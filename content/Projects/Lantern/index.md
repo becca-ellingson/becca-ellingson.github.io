@@ -21,13 +21,16 @@ Working on the guards
 ---
 ## Enemy Behavior and Movement
 
-| **Subheading**<br>Description goes here. | ![Describe the image](section-right.jpg) |
+| ![Describe the image](section-left.jpg) | **Enemy State Tree**<br>I designed and prototyped enemy state trees involving patrol, investigate, and aggro behavior states.|
 | --- | --- |
 
-| ![Describe the image](section-left.jpg) | **Subheading**<br>Description goes here. |
+| **Zone Manager**<br>I created a level-wide movement system where the Guards randomly select an empty "zone" and then choose a random point inside that zone to travel to. They then continue to visit the next closest point until all points in the zone have been visited. They then choose a new empty zone to go to and the process repeats. This allows for somewhat randomized but still rational, telegraphed behavior for the enemy. | ![Gif of Guards moving around a basic level, choosing new waypoints and zones](section-right.jpg) |
 | --- | --- |
 
-| **Subheading**<br>Description goes here. | ![Describe the image](section-right.jpg) |
+| ![Describe the image](section-left.jpg) | **Investigate Behavior**<br>Using Unreal 5 State Tree, I created an investigative behavior system where after losing sight of the player, the guard investigates points in the surrounding area, including wall cracks that could trigger a quick time event. |
+| --- | --- |
+
+| **Event Points**<br>I created colliders that have a chance to trigger spooky character moments for the enemy AI. Examples include pausing and looking around, scraping the walls, or peering around corners. These events contribute to the ambiance and scariness of the enemies. | ![Describe the image](section-right.jpg) |
 | --- | --- |
 
 
