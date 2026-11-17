@@ -15,35 +15,30 @@ I am the primary enemy AI designer for this project.
 
 ---
 ## Enemy Behavior and Movement
-| --- | --- |
-
 
 | **Zone Manager**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
-| --- | --- |
+
 
 | ![Describe the image](feature.jpg) | **Investigate Behavior**<br>Description goes here. |
-| --- | --- |
+
 
 | **Event Points**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
-| --- | --- |
 
 
 ---
 ## Designing the Horror Experience
-| --- | --- |
 
 
 | **Designing the horror experience**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
-| --- | --- |
+
 
 | ![Describe the image](feature.jpg) | **Creating temporary rig**<br>Description goes here. |
-| --- | --- |
+
 
 | **Death Cutscene**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
-| --- | --- |
 
 
 ---
 ## Early Prototyping and Development
 
-| --- | --- |
+
