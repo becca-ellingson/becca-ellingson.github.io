@@ -13,6 +13,10 @@ This project is ongoing and will be shipped in Spring 2027.
 Working on the guards
 
 
+{{< feature-grid columns="3" >}}
+  {{< feature title="Enemy Behavior" url="#enemy-behavior-and-movement" label="Jump to section" >}}
+  How enemies move and respond to the player.
+  {{< /feature >}}
 ---
 ## Enemy Behavior and Movement
 
