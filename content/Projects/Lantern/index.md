@@ -16,7 +16,7 @@ I am the primary enemy AI designer for this project.
 ---
 ## Enemy Behavior and Movement
 
-**Zone Manager**<br>Designed and implemented enemy AI behavior system.  ![Describe the image](feature.jpg) 
+**Zone Manager**<br>Designed and implemented enemy AI behavior system.  |![Describe the image](feature.jpg) 
 
 
 ![Describe the image](feature.jpg)  **Investigate Behavior**<br>Description goes here. 
