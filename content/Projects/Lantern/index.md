@@ -14,21 +14,36 @@ I am the primary enemy AI designer for this project.
 
 
 ---
-## A larger section heading
-
-| **Third subheading**<br>Description goes here. | ![Describe the image](another-image.jpg) |
+## Enemy Behavior and Movement
 | --- | --- |
 
 
-| **Enemy AI Behavior**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
+| **Zone Manager**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
 | --- | --- |
 
-| ![Describe the image](feature.jpg) | **Subheading**<br>Description goes here. |
+| ![Describe the image](feature.jpg) | **Investigate Behavior**<br>Description goes here. |
+| --- | --- |
+
+| **Event Points**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
 | --- | --- |
 
 
-| **Enemy AI Behavior**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
+---
+## Designing the Horror Experience
 | --- | --- |
 
-| ![Describe the image](feature.jpg) | **Subheading**<br>Description goes here. |
+
+| **Designing the horror experience**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
+| --- | --- |
+
+| ![Describe the image](feature.jpg) | **Creating temporary rig**<br>Description goes here. |
+| --- | --- |
+
+| **Death Cutscene**<br>Designed and implemented enemy AI behavior system. | ![Describe the image](feature.jpg) |
+| --- | --- |
+
+
+---
+## Early Prototyping and Development
+
 | --- | --- |
