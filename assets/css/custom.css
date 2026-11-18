@@ -72,7 +72,6 @@ section.w-full.grid.gap-4 {
   line-height: 1.3;
 }
 
-/* table strong {
-  font-size: 2rem !important;
-  color: red !important;
-} */
+table strong {
+  font-size: 1.25rem !important;
+}
