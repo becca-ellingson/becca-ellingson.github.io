@@ -20,13 +20,13 @@ On this project, I'm primarily working on designing the behavior of the Guards, 
 ---
 ## Enemy Behavior and Movement
 
-| ![Describe the image](section-left.jpg) | **Enemy State Tree**<br>Using Unreal State Tree, I designed and prototyped enemy state trees involving patrol, investigate, and aggro behavior states.|
+| ![Describe the image](PrototypeST.png) | **Enemy State Tree**<br>Using Unreal State Tree, I designed and prototyped our intitial enemy state tree, which involved patrol, investigate, and aggro behavior states. This prototype became the basis our enemy AI engineer used for architecting our current state tree.|
 | --- | --- |
 
 | **Zone Manager**<br>I created a level-wide movement system where the Guards randomly select an empty "zone" and then choose a random point inside that zone to travel to. They then continue to visit the next closest point until all points in the zone have been visited. They then choose a new empty zone to go to and the process repeats. This allows for somewhat randomized but still rational, telegraphed behavior for the enemy. | ![Gif of Guards moving around a basic level, choosing new waypoints and zones](ZoneManager.png) |
 | --- | --- |
 
-| ![Investigate Behavior GIF](section-left.jpg) | **Investigate Behavior**<br>Using Unreal 5 State Tree, I created an investigative behavior system where after losing sight of the player, the guard investigates points in the surrounding area, including wall cracks that could trigger a quick time event. |
+| ![Investigate Behavior GIF](PrototypeInvestigateArea.png) | **Investigate Behavior**<br>Using Unreal 5 State Tree, I created an investigative behavior system where after losing sight of the player, the guard investigates points in the surrounding area, including wall cracks that could trigger a quick time event. |
 | --- | --- |
 
 | **Event Points**<br>I created colliders that have a chance to trigger spooky character moments for the enemy AI. Examples include pausing and looking around, scraping the walls, or peering around corners. These events contribute to the ambiance and scariness of the enemies. | ![Event Point GIF](section-right.jpg) |
