@@ -53,3 +53,11 @@ overview
 | **Subheading**<br>Description goes here. | ![Describe the image](section-right.jpg) |
 | --- | --- |
 
+---
+## Key Takeaways
+
+**What Went Well**
+
+**What Went Wrong**
+
+**What I Learned**

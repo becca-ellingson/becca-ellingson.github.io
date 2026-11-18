@@ -8,7 +8,7 @@ heroStyle: "big"
 
 Lantern of Souls is a stealth horror game where you play as a Soul Guardian, tasked with guiding a Soul to ascension through a dark underworld full of corrupted spirits. Sneak, hide, use abilities, and move carefully through the level in order to prevent the terrifying Guards from detecting the Soul's light.
 
-On this project, I primarily worked on designing the behavior of the Guards, our intelligent enemy that hunts the player and the Soul. This project is ongoing and will be shipped in Spring 2027.
+On this project, I'm primarily working on designing the behavior of the Guards, our intelligent enemy that hunts the player and the Soul. This project is ongoing and will be shipped in Spring 2027.
 
 
 {{< feature-grid columns="3" >}}
@@ -35,10 +35,10 @@ On this project, I primarily worked on designing the behavior of the Guards, our
 ---
 ## Designing the Horror Experience
 
-| ![Temporary Rig GIF](section-left.jpg) | **Temporary Rig**<br>In our early whitebox stage, I realized that I wanted to test the emotional effect of certain enemy-player experiences, and I needed a rig for that. I created a simple but complete temporary rig to be able to test some pre-vis animations. |
+| ![Temporary Rig GIF](section-left.jpg) | **Temporary Rig**<br>In our early whitebox stage, I realized that I needed animations in order to test the emotional effect of certain enemy-player experiences. I created a simple but complete temporary rig to use for testing some pre-vis animations. |
 | --- | --- |
 
-| **Death Cutscene**<br>I directed pre-vis animators in using the temporary rig to create the death cutscene animation. I planned out the scene and created the fixed camera. | ![Death Cutscene GIF](section-right.jpg) |
+| **Death Cutscene**<br>I directed animators in using the temporary rig to create the death cutscene animation test. I planned out the scene and created the fixed camera. | ![Death Cutscene GIF](section-right.jpg) |
 | --- | --- | 
 
 | ![Guard turning to look at player GIF](section-left.jpg) | **Guard Looking at Player**<br>Using the animation blueprint, I set up the guard's ability to look in the direction of the player when the player is detected. |
@@ -54,3 +54,15 @@ On this project, I primarily worked on designing the behavior of the Guards, our
 | ![Old QTE GIF](section-left.jpg) | **Prototype QTE**<br>During the iteration process, I created early versions of the quick-time-event that occurs when the enemy searches a crack the player is hiding in. |
 | --- | --- |
 
+
+---
+## Key Takeaways
+
+**What Went Well**
+I've loved working on enemy behavior for this game, and 
+
+**What Went Wrong**
+
+
+**What I Learned**
+In addition to learning the technical skill of working with UE 5 and state trees in particular, this project has taught me to think about the player experience before anything else. I've learned to design around specific feelings I want to invoke in the player: in this game, both intense fear and relief. I've also learned to approach each itteration loop with a specific question to answer.
