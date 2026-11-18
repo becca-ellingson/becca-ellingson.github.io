@@ -32,7 +32,7 @@ Inspired by some of my favorite games, Outer Wilds and Super Mario Galaxy, I wan
 ---
 ## Customizable Solar System
 
-| **Planets Orbit Each Other**<br>Solar systems are completly customizable, and a user can create new planets and set them to orbit one another in the drop down menue. Planets will automatically make circles around the planet they are set to orbit at the distance they are placed away from it. | ![Describe the image](section-right.jpg) |
+| **Planets Orbit Each Other**<br>Solar systems are completly customizable, and a user can create new planets and set them to orbit one another in the drop down menu. Planets will automatically make circles around the planet they are set to orbit at the distance they are placed away from it. | ![Describe the image](section-right.jpg) |
 | --- | --- |
 
 | ![Describe the image](section-left.jpg) | **Customizable Orbital/Rotational Period, size, and gravity**<br>Orbital and rotational period are both customizable, as are planet size and planet gravity. Though I initially considered syncing gravity automatically with planet scale, I realized that would leave me with only a small range of planet sizes that are playable. Players found it more enjoyable to have slightly less realistic physics, with tiny planets having disproportionatly large gravity and large planets not having so much gravity as to trap the player and prevent them from leaving. |
