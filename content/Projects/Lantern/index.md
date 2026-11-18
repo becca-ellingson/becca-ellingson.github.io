@@ -49,11 +49,11 @@ On this project, I'm primarily working on designing the behavior of the Guards, 
 ---
 ## Early Prototyping and Development
 
-| **Distraction Throw**<br>I designed the mechanic for the player throwing a distraction to divert the enemy. | ![Distraction Throw GIF](section-right.jpg) |
+| **Distraction Throw**<br>I designed the mechanic for the player throwing a distraction to divert the enemy. | ![Distraction Throw GIF](distractionthrow.gif) |
 | --- | --- |
 
-| ![Old QTE GIF](section-left.jpg) | **Prototype QTE**<br>During the iteration process, I created early versions of the quick-time-event that occurs when the enemy searches a crack the player is hiding in. |
-| --- | --- |
+<!-- | ![Old QTE GIF](section-left.jpg) | **Prototype QTE**<br>During the iteration process, I created early versions of the quick-time-event that occurs when the enemy searches a crack the player is hiding in. |
+| --- | --- | -->
 
 
 ---
