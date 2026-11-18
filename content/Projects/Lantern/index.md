@@ -20,7 +20,7 @@ On this project, I'm primarily working on designing the behavior of the Guards, 
 ---
 ## Enemy Behavior and Movement
 
-| ![Describe the image](section-left.jpg) | **Enemy State Tree**<br>I designed and prototyped enemy state trees involving patrol, investigate, and aggro behavior states.|
+| ![Describe the image](section-left.jpg) | **Enemy State Tree**<br>Using Unreal State Tree, I designed and prototyped enemy state trees involving patrol, investigate, and aggro behavior states.|
 | --- | --- |
 
 | **Zone Manager**<br>I created a level-wide movement system where the Guards randomly select an empty "zone" and then choose a random point inside that zone to travel to. They then continue to visit the next closest point until all points in the zone have been visited. They then choose a new empty zone to go to and the process repeats. This allows for somewhat randomized but still rational, telegraphed behavior for the enemy. | ![Gif of Guards moving around a basic level, choosing new waypoints and zones](ZoneManager.png) |
@@ -59,11 +59,11 @@ On this project, I'm primarily working on designing the behavior of the Guards, 
 ---
 ## Key Takeaways
 
-**What Went Well:**
-I've loved working on enemy behavior for this game, and 
+### What Went Well:
+I've loved working on enemy behavior for this game, and I've grown a lot in both my technical and design skills. I've epsecially enjoyed watching players interact with the game and being legitimatly afraid of the guard, experiencing the fear and tension we've designed into the game.
 
-**What Went Wrong:**
+### What Went Wrong:
+If I were to start over on developing this project, I'd try and focus from the begining on designing a concrete player experience, rather than throwing things at the wall to try and see if any of them are fun. Though our development process right now is on track and has a clear direction, in the begining stages we wasted a lot of time trying to figure out what kind of game we were trying to make.
 
-
-**What I Learned:**
+### What I Learned:
 In addition to learning the technical skill of working with UE 5 and state trees in particular, this project has taught me to think about the player experience before anything else. I've learned to design around specific feelings I want to invoke in the player: in this game, both intense fear and relief. I've also learned to approach each itteration loop with a specific question to answer.
