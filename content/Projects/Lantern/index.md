@@ -27,36 +27,32 @@ Working on the guards
 | **Zone Manager**<br>I created a level-wide movement system where the Guards randomly select an empty "zone" and then choose a random point inside that zone to travel to. They then continue to visit the next closest point until all points in the zone have been visited. They then choose a new empty zone to go to and the process repeats. This allows for somewhat randomized but still rational, telegraphed behavior for the enemy. | ![Gif of Guards moving around a basic level, choosing new waypoints and zones](section-right.jpg) |
 | --- | --- |
 
-| ![Describe the image](section-left.jpg) | **Investigate Behavior**<br>Using Unreal 5 State Tree, I created an investigative behavior system where after losing sight of the player, the guard investigates points in the surrounding area, including wall cracks that could trigger a quick time event. |
+| ![Investigate Behavior GIF](section-left.jpg) | **Investigate Behavior**<br>Using Unreal 5 State Tree, I created an investigative behavior system where after losing sight of the player, the guard investigates points in the surrounding area, including wall cracks that could trigger a quick time event. |
 | --- | --- |
 
-| **Event Points**<br>I created colliders that have a chance to trigger spooky character moments for the enemy AI. Examples include pausing and looking around, scraping the walls, or peering around corners. These events contribute to the ambiance and scariness of the enemies. | ![Describe the image](section-right.jpg) |
+| **Event Points**<br>I created colliders that have a chance to trigger spooky character moments for the enemy AI. Examples include pausing and looking around, scraping the walls, or peering around corners. These events contribute to the ambiance and scariness of the enemies. | ![Event Point GIF](section-right.jpg) |
 | --- | --- |
 
 
 ---
 ## Designing the Horror Experience
 
-
-| ![Describe the image](section-left.jpg) | **Subheading**<br>Description goes here. |
+| ![Temporary Rig GIF](section-left.jpg) | **Temporary Rig**<br>In our early whitebox stage, I realized that I wanted to test the emotional effect of certain enemy-player experiences, and I needed a rig for that. I created a simple but complete temporary rig to be able to test some pre-vis animations. |
 | --- | --- |
 
-| **Subheading**<br>Description goes here. | ![Describe the image](section-right.jpg) |
+| **Death Cutscene**<br>I directed pre-vis animators in using the temporary rig to create the death cutscene animation. I planned out the scene and created the fixed camera. | ![Death Cutscene GIF](section-right.jpg) |
 | --- | --- | 
 
-| ![Describe the image](section-left.jpg) | **Subheading**<br>Description goes here. |
+| ![Guard turning to look at player GIF](section-left.jpg) | **Guard Looking at Player**<br>Using the animation blueprint, I set up the guard's ability to look in the direction of the player when the player is detected. |
 | --- | --- |
 
 
 ---
 ## Early Prototyping and Development
 
-| **Subheading**<br>Description goes here. | ![Describe the image](section-right.jpg) |
+| **Distraction Throw**<br>I designed the mechanic for the player throwing a distraction to divert the enemy. | ![Distraction Throw GIF](section-right.jpg) |
 | --- | --- |
 
-| ![Describe the image](section-left.jpg) | **Subheading**<br>Description goes here. |
-| --- | --- |
-
-| **Subheading**<br>Description goes here. | ![Describe the image](section-right.jpg) |
+| ![Old QTE GIF](section-left.jpg) | **Prototype QTE**<br>During the iteration process, I created early versions of the quick-time-event that occurs when the enemy searches a crack the player is hiding in. |
 | --- | --- |
 
