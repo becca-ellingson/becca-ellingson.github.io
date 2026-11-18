@@ -23,7 +23,7 @@ On this project, I'm primarily working on designing the behavior of the Guards, 
 | ![Describe the image](section-left.jpg) | **Enemy State Tree**<br>I designed and prototyped enemy state trees involving patrol, investigate, and aggro behavior states.|
 | --- | --- |
 
-| **Zone Manager**<br>I created a level-wide movement system where the Guards randomly select an empty "zone" and then choose a random point inside that zone to travel to. They then continue to visit the next closest point until all points in the zone have been visited. They then choose a new empty zone to go to and the process repeats. This allows for somewhat randomized but still rational, telegraphed behavior for the enemy. | ![Gif of Guards moving around a basic level, choosing new waypoints and zones](section-right.jpg) |
+| **Zone Manager**<br>I created a level-wide movement system where the Guards randomly select an empty "zone" and then choose a random point inside that zone to travel to. They then continue to visit the next closest point until all points in the zone have been visited. They then choose a new empty zone to go to and the process repeats. This allows for somewhat randomized but still rational, telegraphed behavior for the enemy. | ![Gif of Guards moving around a basic level, choosing new waypoints and zones](ZoneManager.png) |
 | --- | --- |
 
 | ![Investigate Behavior GIF](section-left.jpg) | **Investigate Behavior**<br>Using Unreal 5 State Tree, I created an investigative behavior system where after losing sight of the player, the guard investigates points in the surrounding area, including wall cracks that could trigger a quick time event. |
@@ -39,11 +39,11 @@ On this project, I'm primarily working on designing the behavior of the Guards, 
 | ![Temporary Rig GIF](guardrigdemo.gif) | **Temporary Rig**<br>In our early whitebox stage, I realized that I needed animations in order to test the emotional effect of certain enemy-player experiences. I created a simple but complete temporary rig to use for testing some pre-vis animations. |
 | --- | --- |
 
-| **Death Cutscene**<br>I directed animators in using the temporary rig to create the death cutscene animation test. I planned out the scene and created the fixed camera. | ![Death Cutscene GIF](section-right.jpg) |
+| **Death Cutscene**<br>I directed animators in using the temporary rig to create the death cutscene animation test. I planned out the scene and created the fixed camera. | ![Death Cutscene GIF](deathcutscene.gif) |
 | --- | --- | 
 
-| ![Guard turning to look at player GIF](section-left.jpg) | **Guard Looking at Player**<br>Using the animation blueprint, I set up the guard's ability to look in the direction of the player when the player is detected. |
-| --- | --- |
+<!-- | ![Guard turning to look at player GIF](section-left.jpg) | **Guard Looking at Player**<br>Using the animation blueprint, I set up the guard's ability to look in the direction of the player when the player is detected. |
+| --- | --- | -->
 
 
 ---
