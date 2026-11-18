@@ -8,9 +8,7 @@ heroStyle: "big"
 
 Lantern of Souls is a stealth horror game where you play as a Soul Guardian, tasked with guiding a Soul to ascension through a dark underworld full of corrupted spirits. Sneak, hide, use abilities, and move carefully through the level in order to prevent the terrifying Guards from detecting the Soul's light.
 
-This project is ongoing and will be shipped in Spring 2027.
-
-Working on the guards
+On this project, I primarily worked on designing the behavior of the Guards, our intelligent enemy that hunts the player and the Soul. This project is ongoing and will be shipped in Spring 2027.
 
 
 {{< feature-grid columns="3" >}}
