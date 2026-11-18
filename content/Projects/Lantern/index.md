@@ -29,7 +29,7 @@ On this project, I'm primarily working on designing the behavior of the Guards, 
 | ![Investigate Behavior GIF](PrototypeInvestigateArea.png) | **Investigate Behavior**<br>Using Unreal 5 State Tree, I created an investigative behavior system where after losing sight of the player, the guard investigates points in the surrounding area, including wall cracks that could trigger a quick time event. |
 | --- | --- |
 
-| **Event Points**<br>I created colliders that have a chance to trigger spooky character moments for the enemy AI. Examples include pausing and looking around, scraping the walls, or peering around corners. These events contribute to the ambiance and scariness of the enemies. | ![Event Point GIF](section-right.jpg) |
+| **Event Points**<br>I created colliders placed around the level that have a chance to trigger spooky character moments for the enemy AI. Examples include pausing and looking around, scraping the walls, or peering around corners. These events contribute to the ambiance and scariness of the enemies. | ![Event Point GIF](EventLookWait.png) |
 | --- | --- |
 
 
