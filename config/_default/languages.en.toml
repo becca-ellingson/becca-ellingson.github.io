@@ -16,8 +16,8 @@ title = "Projects"
 
  [params.author]
    name = "Becca Ellingson"
-   email = "youremail@example.com"
-   image = "img/blowfish_logo.png"
+   email = "becca.ellingson@gmail.com"
+   image = "img/profilepicture.jpeg"
    imageQuality = 96
    headline = "Technical Game Designer"
    bio = "Game developer and space enthusiast"
