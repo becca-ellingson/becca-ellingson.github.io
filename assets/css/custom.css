@@ -68,6 +68,6 @@ section.w-full.grid.gap-4 {
 /* Make the bold subheading larger than the description */
 .article-content td strong {
   display: inline-block;
-  font-size: 1.3em;
+  font-size: 1.7em;
   line-height: 1.3;
 }
