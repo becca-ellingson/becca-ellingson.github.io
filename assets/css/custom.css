@@ -47,3 +47,13 @@ section.w-full.grid.gap-4 {
   position: absolute;
   inset: 0;
 }
+
+/* Make the article content area wider, and tables full width */
+.article-content {
+  max-width: 80rem !important;
+}
+
+.article-content table {
+  width: 100%;
+  table-layout: fixed;
+}
