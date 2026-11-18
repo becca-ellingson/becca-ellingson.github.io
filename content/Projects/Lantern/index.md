@@ -36,7 +36,7 @@ On this project, I'm primarily working on designing the behavior of the Guards, 
 ---
 ## Designing the Horror Experience
 
-| ![Temporary Rig GIF](section-left.jpg) | **Temporary Rig**<br>In our early whitebox stage, I realized that I needed animations in order to test the emotional effect of certain enemy-player experiences. I created a simple but complete temporary rig to use for testing some pre-vis animations. |
+| ![Temporary Rig GIF](guardrigdemo.gif) | **Temporary Rig**<br>In our early whitebox stage, I realized that I needed animations in order to test the emotional effect of certain enemy-player experiences. I created a simple but complete temporary rig to use for testing some pre-vis animations. |
 | --- | --- |
 
 | **Death Cutscene**<br>I directed animators in using the temporary rig to create the death cutscene animation test. I planned out the scene and created the fixed camera. | ![Death Cutscene GIF](section-right.jpg) |
