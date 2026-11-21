@@ -76,3 +76,13 @@ table strong {
   font-size: 1.5rem !important;
 }
 
+
+/* Resume frame size adjustments */
+.article-content iframe[title="Resume"] {
+  width: min(95vw, 1200px);
+  max-width: none;
+  height: 1000px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
