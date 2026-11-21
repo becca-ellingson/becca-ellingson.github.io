@@ -2,4 +2,4 @@
 title: "Resume"
 ---
 
-[View or download my resume (PDF)](/files/BeccaEllingsonResume.pdf)
+[View or download my resume (PDF)](/content/BeccaEllingsonResume.pdf)
