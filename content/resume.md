@@ -2,4 +2,4 @@
 title: "Resume"
 ---
 
-You should hire me!! Because... ummmmm.. yeah
+[View or download my resume (PDF)](/files/BeccaEllingsonResume.pdf)
