@@ -5,7 +5,7 @@ title: "Resume"
 <iframe
   src="/files/BeccaEllingsonResume.pdf"
   width="100%"
-  height="400"
+  height="500"
   title="Resume">
 </iframe>
 
