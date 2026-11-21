@@ -3,9 +3,8 @@ title: "Resume"
 ---
 
 <iframe
-  src="/files/BeccaEllingsonResume.pdf#zoom=125"
-  width="100%"
-  height="1000"
+  src="/files/BeccaEllingsonResume.pdf"
+  width="500"
   title="Resume">
 </iframe>
 
